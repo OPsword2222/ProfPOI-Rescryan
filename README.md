@@ -16,12 +16,6 @@ This can be reloaded with: /wynntils map poiProvider reload
 
 and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
 ***
-## How can you contribute?
-
-
-DM me on discord (shadowshiftg) with coordinates to the general area of the nodes, as well as a screenshot.
-
-***
 ## Current Progress
 
 ### Materials
