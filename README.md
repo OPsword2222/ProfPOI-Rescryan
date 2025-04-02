@@ -26,11 +26,11 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
 
 ### Materials
 - [ ] Lv. 1-10
-    - [ ] Copper
+    - [x] Copper
     - [ ] Wheat
     - [ ] Gudgeon
 - [ ] Lv. 10-20
-    - [ ] Granite
+    - [x] Granite
     - [ ] Barley
     - [ ] Trout
 - [ ] Lv. 20-30
