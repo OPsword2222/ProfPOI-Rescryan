@@ -34,7 +34,7 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
     - [ ] Salmon
 - [x] Lv. 30-40 (Sandstone, Malt, and Carp)
 - [ ] Lv. 40-50
-    - [ ] Iron
+    - [x] Iron
     - [x] Hops
     - [x] Icefish
 - [ ] Lv. 50-60
