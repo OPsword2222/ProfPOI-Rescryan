@@ -44,11 +44,11 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
     - [x] Icefish
 - [ ] Lv. 50-60
     - [ ] Silver
-    - [ ] Rye
+    - [x] Rye
     - [ ] Piranha
 - [ ] Lv. 60-70
     - [ ] Cobalt
-    - [ ] Millet
+    - [x] Millet
     - [ ] Koi
 - [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish) 
 - [x] Lv. 80-90 (Diamond, Rice, and Bass)
