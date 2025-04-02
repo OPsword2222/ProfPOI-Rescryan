@@ -4,6 +4,8 @@ The intention of this project is to create a full list of all gather node locati
 After this is largely complete, I will be making a version that can be imported into Legacy (Wynntils 1.12.2)
 
 Each POI will be a group of nodes, and inside the file, a list of the exact node coordinates will be commented in.
+## Hello!
+Hi, I'm Rescryan. I came apon this project when it had been unactive for largely half a year (Though the last actual edit was November 2024, it had been unactive since June that year iirc). So, I decided to take the project and run the last few laps. I have been making edits and changes to it. I really hope you find it usefull! One last thing. In the materials section of this page, the Materials with an (R) after them means that I did those.
 ***
 ## How can you load this ingame?
 
@@ -20,11 +22,11 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
 
 ### Materials
 - [ ] Lv. 1-10
-    - [x] Copper
+    - [x] Copper (R)
     - [ ] Wheat
     - [ ] Gudgeon
 - [ ] Lv. 10-20
-    - [x] Granite
+    - [x] Granite (R)
     - [ ] Barley
     - [ ] Trout
 - [ ] Lv. 20-30
@@ -38,18 +40,18 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
     - [x] Icefish
 - [ ] Lv. 50-60
     - [ ] Silver
-    - [x] Rye
+    - [x] Rye (R)
     - [ ] Piranha
 - [ ] Lv. 60-70
     - [ ] Cobalt
-    - [x] Millet
+    - [x] Millet (R)
     - [ ] Koi
 - [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish) 
 - [x] Lv. 80-90 (Diamond, Rice, and Bass)
 - [ ] Lv. 90-100
     - [x] Molten
     - [x] Sorghum
-    - [ ] Molten Eel - in progress
+    - [ ] Molten Eel
 - [x] Lv. 100-110 (Voidstone, Hemp, and Starfish)
 - [x] Lv. 110+ (Dernic, Dernic Seed, Dernic Fish)
 
