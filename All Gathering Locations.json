@@ -9259,6 +9259,118 @@ Messed up trout nodes in the middle of fantastic voyage
 	
 //Mining
 
+//Copper
+	{
+	  "name": "[4] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -1320,
+		"y": 50,
+		"z":-1600
+	  } 
+	},
+	{
+	  "name": "[10] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -545,
+		"y": 67,
+		"z": -1520
+	  } 
+	},
+	{
+	  "name": "[8] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -470,
+		"y": 69,
+		"z": -1675
+	  } 
+	},
+	{
+	  "name": "[3] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -710,
+		"y": 67,
+		"z": -1675
+	  } 
+	},
+	{
+	  "name": "[5] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -510,
+		"y": 37,
+		"z": -2000
+	  } 
+	},
+	{
+	  "name": "[6] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -300,
+		"y": 70,
+		"z": -1545
+	  } 
+	},
+	{
+	  "name": "[3] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -250,
+		"y": 71,
+		"z": -1657
+	  } 
+	},
+	{
+	  "name": "[2] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -200,
+		"y": 69,
+		"z": -1650
+	  } 
+	},
+	{
+	  "name": "[6] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": 260,
+		"y": 67,
+		"z": -1570
+	  } 
+	},
+	{
+	  "name": "[8] Copper [Lv.10]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+		"x": -1497,
+		"y": 48,
+		"z": -5205
+	  } 
+	},
+
 //Sandstone
     {
 	  "name": "[1] Sandstone [Lv.30]",
