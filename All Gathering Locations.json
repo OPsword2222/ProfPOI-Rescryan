@@ -1,24 +1,6 @@
 [
 //Fishing
 
-/*
-Messed up trout nodes in the middle of fantastic voyage
-	    2629, 37, -4138
-	    2625, 37, -4129
-	    2621, 37, -4138
-	    2626, 37, -4150
-	    2628, 37, -4113
-	    2624, 37, -4119
-	    2621, 37, -4123
-	    2648, 37, -4112
-	    2652, 37, -4124
-	    2658, 37, -4128
-	    2652, 37, -4133
-	    2652, 37, -4144
-	    2647, 37, -4143
-	    2658, 37, -4140
-*/
-
 //Carp
     {
 	  "name": "[2] Carp [Lv.30]",
@@ -30,13 +12,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 55,
 	    "z": -5554
 	  }
-
-	  /* 
-	  Nodes:
-	    -2109, 54, -5556
-	    -2124, 54, -5554
-	  */
-
     },
     {
 	  "name": "[1] Carp [Lv.30]",
@@ -48,12 +23,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 57,
 	    "z": -5344
 	  }
-
-	  /* 
-	  Nodes:
-	    -2007, 57, -5344
-	  */
-
     },
     {
 	  "name": "[8] Carp [Lv.30]",
@@ -65,19 +34,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 57,
 	    "z": -5352
 	  }
-
-	  /* 
-	  Nodes:
-	    -2018, 56, -5353
-	    -2021, 56, -5356
-	    -2025, 56, -5358
-	    -2029, 56, -5358
-	    -2033, 56, -5359
-	    -2039, 56, -5357
-	    -2043, 56, -5353
-	    -2047, 56, -5346
-	  */
-
     },
     {
 	  "name": "[9] Carp [Lv.30]",
@@ -89,20 +45,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 55,
 	    "z": -5267
 	  }
-
-	  /* 
-	  Nodes:
-	    -2037, 55, -5276
-	    -2050, 55, -5278
-	    -2059, 55, -5276
-	    -2062, 55, -5273
-	    -2067, 55, -5272
-	    -2074, 55, -5271
-	    -2056, 55, -5270
-	    -2046, 55, -5255
-	    -2033, 55, -5267
-	  */
-
     },
     {
 	  "name": "[9] Carp [Lv.30]",
@@ -114,20 +56,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 40,
 	    "z": -4752
 	  }
-
-	  /* 
-	  Nodes:
-	    -1434, 39, -4748
-	    -1440, 39, -4748
-	    -1443, 39, -4749
-	    -1445, 39, -4751
-	    -1443, 39, -4754
-	    -1440, 39, -4756
-	    -1437, 39, -4756
-	    -1435, 39, -4757
-	    -1435, 39, -4761
-	  */
-
     },
     {
 	  "name": "[3] Carp [Lv.30]",
@@ -139,14 +67,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 127,
 	    "z": -2227
 	  }
-
-	  /* 
-	  Nodes:
-	    1129, 126, -2227
-	    1127, 126, -2225
-	    1126, 126, -2229
-	  */
-
     },
     {
 	  "name": "[5] Carp [Lv.30]",
@@ -158,16 +78,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 174,
 	    "z": -2321
 	  }
-
-	  /* 
-	  Nodes:
-	    1194, 173, -2322
-	    1196, 173, -2316
-	    1188, 173, -2315
-	    1185, 173, -2322
-	    1189, 173, -2324
-	  */
-
     },
     {
 	  "name": "[6] Carp [Lv.30]",
@@ -179,17 +89,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 160,
 	    "z": -2289
 	  }
-
-	  /* 
-	  Nodes:
-	    1181, 159, -2294
-	    1178, 159, -2293
-	    1178, 159, -2288
-	    1175, 159, -2284
-	    1183, 159, -2284
-	    1187, 159, -2287
-	  */
-
     },
     {
 	  "name": "[11] Carp [Lv.30]",
@@ -201,22 +100,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 153,
 	    "z": -2263
 	  }
-
-	  /* 
-	  Nodes:
-	    1167, 152, -2266
-	    1169, 152, -2263
-	    1173, 152, -2265
-	    1173, 152, -2260
-	    1179, 152, -2266
-	    1183, 152, -2267
-	    1177, 152, -2257
-	    1181, 152, -2258
-	    1184, 152, -2255
-	    1188, 152, -2259
-	    1190, 152, -2264
-	  */
-
     },
     {
 	  "name": "[3] Carp [Lv.30]",
@@ -228,14 +111,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 146,
 	    "z": -2233
 	  }
-
-	  /* 
-	  Nodes:
-	    1179, 145, -2231
-	    1180, 145, -2235
-	    1183, 145, -2233
-	  */
-
     },
     {
 	  "name": "[10] Carp [Lv.30]",
@@ -247,21 +122,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 76,
 	    "z": -2023
 	  }
-
-	  /* 
-	  Nodes:
-	    1235, 75, -2025
-	    1237, 75, -2021
-	    1237, 75, -2017
-	    1246, 75, -2013
-	    1249, 75, -2007
-	    1251, 75, -2011
-	    1254, 75, -2017
-	    1253, 75, -2023
-	    1252, 75, -2028
-	    1249, 75, -2036
-	  */
-
     },
     {
 	  "name": "[6] Carp [Lv.30]",
@@ -273,17 +133,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 95,
 	    "z": -2212
 	  }
-
-	  /* 
-	  Nodes:
-	    1239, 94, -2201
-	    1235, 94, -2203
-	    1225, 94, -2207
-	    1221, 94, -2207
-	    1217, 94, -2211
-	    1216, 94, -2216
-	  */
-
     },
     {
 	  "name": "[1] Carp [Lv.30]",
@@ -295,12 +144,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 75,
 	    "z": -1981
 	  }
-
-	  /* 
-	  Nodes:
-	    1230, 75, -1981
-	  */
-
     },
     {
 	  "name": "[3] Carp [Lv.30]",
@@ -312,14 +155,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 76,
 	    "z": -1937
 	  }
-
-	  /* 
-	  Nodes:
-	    1240, 75, -1929
-	    1243, 75, -1938
-	    1240, 75, -1956
-	  */
-
     },
     {
 	  "name": "[2] Carp [Lv.30]",
@@ -331,13 +166,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 76,
 	    "z": -1906
 	  }
-
-	  /* 
-	  Nodes:
-	    1245, 75, -1910
-	    1243, 75, -1904
-	  */
-
     },
     {
 	  "name": "[8] Carp [Lv.30]",
@@ -350,18 +178,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "z": -1875
 	  }
 
-	  /* 
-	  Nodes:
-	    1252, 75, -1886
-	    1253, 75, -1883
-	    1254, 75, -1880
-	    1254, 75, -1877
-	    1255, 75, -1874
-	    1255, 75, -1871
-	    1236, 75, -1869
-	    1235, 75, -1864
-	  */
-
     },
     {
 	  "name": "[7] Carp [Lv.30]",
@@ -373,18 +189,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 76,
 	    "z": -1678
 	  }
-
-	  /* 
-	  Nodes:
-	    1222, 75, -1695
-	    1212, 75, -1683
-	    1205, 75, -1675
-	    1223, 75, -1674
-	    1252, 75, -1682
-	    1248, 75, -1676
-	    1263, 75, -1676
-	  */
-
     },
     {
 	  "name": "[5] Carp [Lv.30]",
@@ -396,16 +200,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 77,
 	    "z": -2140
 	  }
-
-	  /* 
-	  Nodes:
-	    1172, 76, -2142
-	    1175, 76, -2147
-	    1178, 76, -2143
-	    1180, 76, -2137
-	    1176, 76, -2132
-	  */
-
     },
     {
 	  "name": "[9] Carp [Lv.30]",
@@ -417,20 +211,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 87,
 	    "z": -2269
 	  }
-
-	  /* 
-	  Nodes:
-	    1270, 86, -2269
-	    1273, 86, -2262
-	    1276, 86, -2259
-	    1279, 86, -2256
-	    1285, 86, -2252
-	    1297, 86, -2263
-	    1296, 86, -2269
-	    1294, 86, -2274
-	    1292, 86, -2278
-	  */
-
     },
     {
 	  "name": "[6] Carp [Lv.30]",
@@ -442,17 +222,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 77,
 	    "z": -2249
 	  }
-
-	  /* 
-	  Nodes:
-	    1332, 76, -2251
-	    1333, 76, -2254
-	    1336, 76, -2255
-	    1342, 76, -2245
-	    1339, 76, -2242
-	    1336, 76, -2242
-	  */
-
     },
     {
 	  "name": "[5] Carp [Lv.30]",
@@ -464,16 +233,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 77,
 	    "z": -2208
 	  }
-
-	  /* 
-	  Nodes:
-	    1393, 76, -2208
-	    1390, 76, -2209
-	    1389, 76, -2205
-	    1385, 76, -2210
-	    1383, 76, -2207
-	  */
-
     },
     {
 	  "name": "[2] Carp [Lv.30]",
@@ -485,13 +244,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 95,
 	    "z": -2133
 	  }
-
-	  /* 
-	  Nodes:
-	    1479, 94, -2135
-	    1476, 94, -2133
-	  */
-
     },
     {
 	  "name": "[10] Carp [Lv.30]",
@@ -503,21 +255,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 83,
 	    "z": -2089
 	  }
-
-	  /* 
-	  Nodes:
-	    1408, 82, -2099
-	    1413, 82, -2097
-	    1416, 82, -2092
-	    1416, 82, -2087
-	    1413, 82, -2083
-	    1408, 82, -2082
-	    1404, 82, -2084
-	    1401, 82, -2087
-	    1401, 82, -2091
-	    1404, 82, -2096
-	  */
-
     },
     {
 	  "name": "[11] Carp [Lv.30]",
@@ -529,22 +266,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 70,
 	    "z": -1863
 	  }
-
-	  /* 
-	  Nodes:
-	    1328, 69, -1847
-	    1333, 69, -1854
-	    1336, 69, -1858
-	    1339, 69, -1865
-	    1338, 69, -1869
-	    1327, 69, -1876
-	    1317, 69, -1876
-	    1312, 69, -1872
-	    1312, 69, -1862
-	    1316, 69, -1854
-	    1319, 69, -1852
-	  */
-
     },
     {
 	  "name": "[3] Carp [Lv.30]",
@@ -556,14 +277,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 66,
 	    "z": -2016
 	  }
-
-	  /* 
-	  Nodes:
-	    885, 65, -2025
-	    890, 65, -2020
-	    905, 65, -2002
-	  */
-
     },
     {
 	  "name": "[9] Carp [Lv.30]",
@@ -575,20 +288,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 30,
 	    "z": -1481
 	  }
-
-	  /* 
-	  Nodes:
-	    1370, 29, -1491
-	    1374, 29, -1485
-	    1389, 29, -1494
-	    1390, 29, -1486
-	    1387, 29, -1479
-	    1383, 29, -1477
-	    1379, 29, -1472
-	    1388, 29, -1469
-	    1386, 29, -1466
-	  */
-
     },
     {
 	  "name": "[2] Carp [Lv.30]",
@@ -600,13 +299,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 30,
 	    "z": -1391
 	  }
-
-	  /* 
-	  Nodes:
-	    1312, 29, -1388
-	    1313, 29, -1393
-	  */
-
     },
     {
 	  "name": "[9] Carp [Lv.30]",
@@ -618,20 +310,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 30,
 	    "z": -1335
 	  }
-
-	  /* 
-	  Nodes:
-	    1418, 29, -1330
-	    1420, 29, -1326
-	    1425, 29, -1331
-	    1424, 29, -1336
-	    1421, 29, -1338
-	    1415, 29, -1339
-	    1412, 29, -1342
-	    1416, 29, -1350
-	    1407, 29, -1349
-	  */
-
     },
     {
 	  "name": "[6] Carp [Lv.30]",
@@ -643,17 +321,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 30,
 	    "z": -1345
 	  }
-
-	  /* 
-	  Nodes:
-	    1297, 29, -1336
-	    1296, 29, -1341
-	    1291, 29, -1349
-	    1286, 29, -1361
-	    1278, 29, -1344
-	    1284, 29, -1337
-	  */
-
     },
     {
 	  "name": "[2] Carp [Lv.30]",
@@ -665,13 +332,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 30,
 	    "z": -1332
 	  }
-
-	  /* 
-	  Nodes:
-	    1264, 29, -1336
-	    1250, 29, -1324
-	  */
-
     },
     {
 	  "name": "[11] Carp [Lv.30]",
@@ -683,22 +343,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 30,
 	    "z": -1470
 	  }
-
-	  /* 
-	  Nodes:
-	    1062, 29, -1450
-	    1062, 29, -1456
-	    1067, 29, -1467
-	    1063, 29, -1468
-	    1062, 29, -1472
-	    1074, 29, -1472
-	    1074, 29, -1476
-	    1075, 29, -1481
-	    1073, 29, -1485
-	    1069, 29, -1486
-	    1067, 29, -1482
-	  */
-
     },
     {
 	  "name": "[4] Carp [Lv.30]",
@@ -710,15 +354,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -2668
 	  }
-
-	  /* 
-	  Nodes:
-	    1069, 33, -2670
-	    1063, 33, -2665
-	    1058, 33, -2664
-	    1053, 33, -2665
-	  */
-
     },
     {
 	  "name": "[6] Carp [Lv.30]",
@@ -730,17 +365,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -2605
 	  }
-
-	  /* 
-	  Nodes:
-	    878, 33, -2598
-	    880, 33, -2601
-	    883, 33, -2603
-	    883, 33, -2607
-	    886, 33, -2608
-	    885, 33, -2611
-	  */
-
     },
     {
 	  "name": "[3] Carp [Lv.30]",
@@ -752,14 +376,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -2664
 	  }
-
-	  /* 
-	  Nodes:
-	    891, 31, -2662
-	    887, 32, -2668
-	    889, 33, -2674
-	  */
-
     },
     {
 	  "name": "[3] Carp [Lv.30]",
@@ -771,14 +387,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -2577
 	  }
-
-	  /* 
-	  Nodes:
-	    913, 33, -2582
-	    913, 33, -2577
-	    918, 33, -2573
-	  */
-
     },
     {
 	  "name": "[3] Carp [Lv.30]",
@@ -791,13 +399,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "z": -2514
 	  }
 
-	  /* 
-	  Nodes:
-	    996, 33, -2511
-	    999, 33, -2519
-	    1006, 33, -2522
-	  */
-
     },
     {
 	  "name": "[7] Carp [Lv.30]",
@@ -809,18 +410,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 38,
 	    "z": -2880
 	  }
-
-	  /* 
-	  Nodes:
-	    1123, 33, -2867
-	    1128, 33, -2866
-	    1132, 33, -2867
-	    1137, 33, -2865
-	    1140, 33, -2866
-	    1145, 33, -2867
-	    1149, 33, -2872
-	  */
-
     },
 
 //Icefish
@@ -834,14 +423,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 64,
 	    "z": -972
 	  }
-
-	  /* 
-	  Nodes:
-	    46, 64, -970
-	    44, 64, -973
-	    41, 64, -974
-	  */
-
     },
     {
 	  "name": "[2] Icefish [Lv.40]",
@@ -853,13 +434,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 62,
 	    "z": -926
 	  }
-
-	  /* 
-	  Nodes:
-	    48, 64, -927
-	    53, 64, -924
-	  */
-
     },
     {
 	  "name": "[6] Icefish [Lv.40]",
@@ -927,14 +501,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 66,
 	    "z": -851
 	  }
-
-	  /* 
-	  Nodes:
-	    51, 66, -854
-	    48, 66, -853
-	    45, 66, -850
-	  */
-
     },
     {
 	  "name": "[2] Icefish [Lv.40]",
@@ -946,13 +512,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 67,
 	    "z": -828
 	  }
-
-	  /* 
-	  Nodes:
-	    40, 66, -830
-	    39, 66, -826
-	  */
-
     },
     {
 	  "name": "[4] Icefish [Lv.40]",
@@ -984,16 +543,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 68,
 	    "z": -765
 	  }
-
-	  /* 
-	  Nodes:
-	    82, 67, -768
-	    78, 67, -766
-	    78, 67, -763
-	    80, 67, -761
-	    83, 67, -762
-	  */
-
     },
     {
 	  "name": "[4] Icefish [Lv.40]",
@@ -1025,15 +574,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 69,
 	    "z": -561
 	  }
-
-	  /* 
-	  Nodes:
-	    75, 68, -569
-	    78, 68, -564
-	    75, 68, -559
-	    82, 68, -556
-	  */
-
     },
     {
 	  "name": "[5] Icefish [Lv.40]",
@@ -1045,16 +585,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 69,
 	    "z": -498
 	  }
-
-	  /* 
-	  Nodes:
-	    75, 68, -507
-	    84, 68, -504
-	    86, 68, -502
-	    85, 68, -498
-	    83, 68, -493
-	  */
-
     },
     {
 	  "name": "[6] Icefish [Lv.40]",
@@ -1088,16 +618,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 69,
 	    "z": -358
 	  }
-
-	  /* 
-	  Nodes:
-	    9, 66, -339
-	    -6, 66, -358
-	    10, 64, -359
-	    8, 66, -365
-	    10, 66, -375
-	  */
-
     },
     {
 	  "name": "[16] Icefish [Lv.40]",
@@ -1109,27 +629,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 71,
 	    "z": -748
 	  }
-
-	  /* 
-	  Nodes:
-	    -103, 68, -760
-	    -100, 68, -759
-	    -99, 68, -755
-	    -96, 68, -756
-	    -94, 68, -750
-	    -93, 68, -747
-	    -95, 68, -741
-	    -98, 68, -742
-	    -98, 68, -738
-	    -103, 68, -734
-	    -104, 68, -739
-	    -109, 68, -741
-	    -112, 68, -743
-	    -113, 68, -748
-	    -106, 68, -755
-	    -109, 68, -756
-	  */
-
     },
     {
 	  "name": "[1] Icefish [Lv.40]",
@@ -1141,12 +640,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 74,
 	    "z": -749
 	  }
-
-	  /* 
-	  Nodes:
-	    -205, 73, -749
-	  */
-
     },
     {
 	  "name": "[1] Icefish [Lv.40]",
@@ -1175,22 +668,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 21,
 	    "z": -445
 	  }
-
-	  /* 
-	  Nodes:
-	    -235, 18, -451
-	    -231, 17, -456
-	    -231, 17, -451
-	    -227, 18, -450
-	    -228, 18, -447
-	    -223, 18, -448
-	    -222, 17, -443
-	    -216, 18, -442
-	    -213, 19, -437
-	    -218, 18, -434
-	    -212, 18, -433
-	  */
-
     },
     {
 	  "name": "[6] Icefish [Lv.40]",
@@ -1224,12 +701,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -3456
 	  }
-
-	  /* 
-	  Nodes:
-	    967, 34, -3456
-	  */
-
     },
     {
 	  "name": "[15] Icefish [Lv.40]",
@@ -1272,22 +743,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -3380
 	  }
-
-	  /* 
-	  Nodes:
-	    885, 33, -3369
-	    886, 33, -3373
-	    888, 33, -3377
-	    886, 33, -3379
-	    889, 33, -3381
-	    890, 33, -3384
-	    891, 33, -3387
-	    890, 33, -3392
-	    886, 33, -3395
-	    872, 33, -3393
-	    868, 33, -3374
-	  */
-
     },
     {
 	  "name": "[7] Icefish [Lv.40]",
@@ -1323,11 +778,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "z": -3364
 	  }
 
-	  /* 
-	  Nodes:
-	    918, 33, -3364
-	  */
-
     },
     {
 	  "name": "[1] Icefish [Lv.40]",
@@ -1339,12 +789,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -3340
 	  }
-
-	  /* 
-	  Nodes:
-	    905, 33, -3340
-	  */
-
     },
     {
 	  "name": "[1] Icefish [Lv.40]",
@@ -1448,14 +892,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -3253
 	  }
-
-	  /* 
-	  Nodes:
-	    726, 24, -3252
-	    731, 25, -3251
-	    728, 27, -3255
-	  */
-
     },
     {
 	  "name": "[1] Icefish [Lv.40]",
@@ -1531,14 +967,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "z": -3455
 	  }
 
-	  /* 
-	  Nodes:
-	    632, 31, -3435
-	    641, 31, -3447
-	    638, 30, -3469
-	    627, 31, -3470
-	    615, 29, -3452
-	  */
 
     },
     {
@@ -1553,7 +981,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  }
 
 	  /* 
-	  Nodes:
+	  :
 	    765, 25, -3449
 	    768, 23, -3448
 	    766, 21, -3447
@@ -1590,19 +1018,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -3309
 	  }
-
-	  /* 
-	  Nodes:
-	    1143, 29, -3301
-	    1144, 29, -3305
-	    1136, 34, -3311
-	    1133, 34, -3306
-	    1129, 34, -3309
-	    1127, 34, -3314
-	    1124, 34, -3311
-	    1143, 34, -3309
-	  */
-
     },
     {
 	  "name": "[26] Icefish [Lv.40]",
@@ -1614,37 +1029,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "y": 34,
 	    "z": -3349
 	  }
-
-	  /* 
-	  Nodes:
-	    1147, 30, -3342
-	    1153, 30, -3342
-	    1157, 24, -3345
-	    1151, 25, -3345
-	    1149, 26, -3345
-	    1143, 30, -3346
-	    1165, 21, -3346
-	    1161, 21, -3347
-	    1157, 21, -3347
-	    1146, 24, -3348
-	    1147, 22, -3348
-	    1153, 21, -3348
-	    1166, 21, -3349
-	    1160, 21, -3349
-	    1151, 21, -3349
-	    1142, 29, -3349
-	    1155, 21, -3350
-	    1158, 22, -3351
-	    1147, 25, -3352
-	    1150, 24, -3352
-	    1154, 23, -3352
-	    1143, 29, -3353
-	    1151, 27, -3354
-	    1152, 31, -3356
-	    1144, 30, -3356
-	    1149, 29, -3357
-	  */
-
     },
     {
 	  "name": "[1] Icefish [Lv.40]",
