@@ -11,7 +11,7 @@ Hi, I'm Rescryan. I came apon this project when it had been unactive for largely
 
 You would have to do the following command ingame:
 
-/wynntils map poiProvider add "All Gather Locations" "https://raw.githubusercontent.com/OPsword2222/ProfPOI-Rescryan/refs/heads/main/All%20Gathering%20Locations.json"
+/wynntils map poiProvider add "All Gather Locations" "https://raw.githubusercontent.com/OPsword2222/ProfPOI-Rescryan/refs/heads/main/All%20Gathering%20Locations.jsons"
 
 This can be reloaded with: /wynntils map poiProvider reload
 
