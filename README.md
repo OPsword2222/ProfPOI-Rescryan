@@ -38,7 +38,7 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
     - [x] Hops
     - [x] Icefish
 - [ ] Lv. 50-60
-    - [ ] Silver
+    - [x] Silver
     - [x] Rye (R)
     - [ ] Piranha
 - [ ] Lv. 60-70
