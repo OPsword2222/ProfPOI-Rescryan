@@ -9371,6 +9371,174 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 
+//Granite
+
+	{
+	  "name": "[15] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -880,
+	    "y": 112,
+	    "z": -1315
+	  } 
+    },
+	{
+	  "name": "[2] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -841,
+	    "y": 82,
+	    "z": -1303
+	  } 
+    },
+	{
+	  "name": "[7] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -790,
+	    "y": 85,
+	    "z": -1325 
+	  } 
+    },
+	{
+	  "name": "[1] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -810,
+	    "y": 94,
+	    "z": -1171
+	  } 
+    },
+	{
+	  "name": "[11] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -778,
+	    "y": 92,
+	    "z": -1200
+	  } 
+    },
+	{
+	  "name": "[13] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -645,
+	    "y": 102,
+	    "z": -1345
+	  } 
+    },
+	{
+	  "name": "[7] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -685,
+	    "y": 128,
+	    "z": -1327
+	  } 
+    },
+	{
+	  "name": "[2] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -385,
+	    "y": 39,
+	    "z": -2040
+	  } 
+    },
+	{
+	  "name": "[9] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 290,
+	    "y": 65,
+	    "z": -1720 
+	  } 
+    },
+	{
+	  "name": "[6] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -255,
+	    "y": 73,
+	    "z": -1940
+	  } 
+    },
+	{
+	  "name": "[8] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -265,
+	    "y": 52,
+	    "z": -2075
+	  } 
+    },
+	{
+	  "name": "[3] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -190,
+	    "y": 39,
+	    "z": -2185
+	  } 
+    },
+	{
+	  "name": "[2] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 790,
+	    "y": 69,
+	    "z": -1520
+	  } 
+    },
+	{
+	  "name": "[5] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 720,
+	    "y": 45,
+	    "z": -1356
+	  } 
+    },
+	{
+	  "name": "[20] Granite [Lv.20]",
+	  "color": "#b66c49",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 785,
+	    "y": 86,
+	    "z": -1242
+	  } 
+    },
+
 //Sandstone
     {
 	  "name": "[1] Sandstone [Lv.30]",
