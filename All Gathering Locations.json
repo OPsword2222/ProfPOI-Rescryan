@@ -9261,7 +9261,7 @@ Messed up trout nodes in the middle of fantastic voyage
 
 //Copper
 	{
-	  "name": "[4] Copper [Lv.10]",
+	  "name": "[4] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9272,7 +9272,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[10] Copper [Lv.10]",
+	  "name": "[10] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9283,7 +9283,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[8] Copper [Lv.10]",
+	  "name": "[8] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9294,7 +9294,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[3] Copper [Lv.10]",
+	  "name": "[3] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9305,7 +9305,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[5] Copper [Lv.10]",
+	  "name": "[5] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9316,7 +9316,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[6] Copper [Lv.10]",
+	  "name": "[6] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9327,7 +9327,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[3] Copper [Lv.10]",
+	  "name": "[3] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9338,7 +9338,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[2] Copper [Lv.10]",
+	  "name": "[2] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9349,7 +9349,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[6] Copper [Lv.10]",
+	  "name": "[6] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9360,7 +9360,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
 	},
 	{
-	  "name": "[8] Copper [Lv.10]",
+	  "name": "[8] Copper [Lv.1]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9374,7 +9374,7 @@ Messed up trout nodes in the middle of fantastic voyage
 //Granite
 
 	{
-	  "name": "[15] Granite [Lv.20]",
+	  "name": "[15] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9385,7 +9385,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[2] Granite [Lv.20]",
+	  "name": "[2] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9396,7 +9396,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[7] Granite [Lv.20]",
+	  "name": "[7] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9407,7 +9407,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[1] Granite [Lv.20]",
+	  "name": "[1] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9418,7 +9418,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[11] Granite [Lv.20]",
+	  "name": "[11] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9429,7 +9429,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[13] Granite [Lv.20]",
+	  "name": "[13] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9440,7 +9440,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[7] Granite [Lv.20]",
+	  "name": "[7] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9451,7 +9451,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[2] Granite [Lv.20]",
+	  "name": "[2] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9462,7 +9462,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[9] Granite [Lv.20]",
+	  "name": "[9] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9473,7 +9473,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[6] Granite [Lv.20]",
+	  "name": "[6] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9484,7 +9484,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[8] Granite [Lv.20]",
+	  "name": "[8] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9495,7 +9495,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[3] Granite [Lv.20]",
+	  "name": "[3] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9506,7 +9506,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[2] Granite [Lv.20]",
+	  "name": "[2] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9517,7 +9517,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[5] Granite [Lv.20]",
+	  "name": "[5] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9528,7 +9528,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 	{
-	  "name": "[20] Granite [Lv.20]",
+	  "name": "[20] Granite [Lv.10]",
 	  "color": "#b66c49",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9539,6 +9539,119 @@ Messed up trout nodes in the middle of fantastic voyage
 	  } 
     },
 
+// Gold
+
+	{
+	  "name": "[11] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 400,
+	    "y": 67,
+	    "z": -1260
+	  } 
+    },
+	{
+	  "name": "[15] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 860,
+	    "y": 28,
+	    "z": -1296
+	  } 
+    },
+	{
+	  "name": "[12] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 715,
+	    "y": 35,
+	    "z": -1278
+	  } 
+    },
+	{
+	  "name": "[12] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 685,
+	    "y": 88,
+	    "z": -1210 
+	  } 
+    },
+	{
+	  "name": "[7] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -6,
+	    "y": 60,
+	    "z": -2065
+	  } 
+    },
+	{
+	  "name": "[14] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 480,
+	    "y": 80,
+	    "z": -1135
+	  } 
+    },
+	{
+	  "name": "[11] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 325,
+	    "y": 42,
+	    "z": -2000
+	  } 
+    },
+	{
+	  "name": "[24] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 963,
+	    "y": 51,
+	    "z": -2196
+	  } 
+    },
+	{
+	  "name": "[10] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 270,
+	    "y": 78,
+	    "z": -1127
+	  } 
+    },
+	{
+	  "name": "[3] Gold [Lv.20]",
+	  "color": "#b2a201",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -72,
+	    "y": 70,
+	    "z": -925
+	  } 
+    },
+	
 //Sandstone
     {
 	  "name": "[1] Sandstone [Lv.30]",
