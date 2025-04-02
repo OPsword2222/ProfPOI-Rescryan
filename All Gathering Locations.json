@@ -6575,6 +6575,374 @@ Messed up trout nodes in the middle of fantastic voyage
 
     },
 
+//Rescryan
+//Rye
+	{
+	  "name": "[10] Rye [Lv.50]",
+	  "color": "#9ae41b",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+		"x": -2175,
+		"y": 58,
+		"z": -5425
+	  }
+	},
+	{
+	  "name": "[11] Rye [Lv.50]",
+	  "color": "#9ae41b",
+	  "icon": "farming",
+      "visibility": "always",
+	  "location": {
+		"x": -1900,
+		"y": 55,
+		"z": -5250
+		}
+	},
+	{
+	  "name": "[12] Rye [Lv.50]",
+	  "color": "#9ae41b",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+		"x": -2065,
+		"y": 53,
+		"z": -5470
+		}
+	},
+	{
+	  "name": "[9] Rye [Lv.50]",
+	  "color": "#9ae41b",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+		"x": -1625,
+		"y": 54,
+		"z": -5300
+		}
+	},
+	{
+	  "name": "[2] Rye [Lv.50]",
+	  "color": "#9ae41b",
+      "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+		"x": -730,
+		"y": 3,
+		"z": -510
+		}
+	},
+	{
+	  "name": "[14] Rye [Lv.50]",
+	  "color": "#9ae41b",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+		"x": -2406,
+		"y": 11,
+		"z": -6829
+		}
+	},
+
+//Rescryan
+//Millet
+	{
+	"name": "[14] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -1386,
+	  "y": 43,
+	  "z": -4548
+	}
+	},
+	{
+	"name": "[14] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -1260,
+	  "y": 45,
+	  "z": -4560
+	}
+	},
+		{
+	"name": "[12] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -700,
+	  "y": 81,
+	  "z": -4480
+	}
+	},
+		{
+	"name": "[10] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -860,
+	  "y": 120,
+	  "z": -2485
+	}
+	},
+		{
+	"name": "[2] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -690,
+	  "y": 22,
+	  "z": -580
+	}
+	},
+		{
+	"name": "[3] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -560,
+	  "y": 23,
+	  "z": -500
+	}
+	},
+		{
+	"name": "[4] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -540,
+	  "y": 44,
+	  "z": -325
+	}
+	},
+		{
+	"name": "[2] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -1175,
+	  "y": 42,
+	  "z": -5005
+	}
+	},
+		{
+	"name": "[10] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -900,
+	  "y": 41,
+	  "z": -4500
+	}
+	},
+		{
+	"name": "[5] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -350,
+	  "y": 115,
+	  "z": -4465
+	}
+	},
+		{
+	"name": "[5] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -300,
+	  "y": 101,
+	  "z": -4500
+	}
+	},
+		{
+	"name": "[3] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -325,
+	  "y": 86,
+	  "z": -4450
+	}
+	},
+		{
+	"name": "[11] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -220,
+	  "y": 125,
+	  "z": -4390
+	}
+	},
+		{
+	"name": "[2] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -180,
+	  "y": 102,
+	  "z": -4390
+	}
+	},
+		{
+	"name": "[6] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -175,
+	  "y": 39,
+	  "z": -4665
+	}
+	},
+		{
+	"name": "[1] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -725,
+	  "y": 42,
+	  "z": -4885
+	}
+	},
+		{
+	"name": "[9] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -580,
+	  "y": 45,
+	  "z": -4850
+	}
+	},
+		{
+	"name": "[6] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -500,
+	  "y": 36,
+	  "z": -5080
+	}
+	},
+		{
+	"name": "[7] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -390,
+	  "y": 41,
+	  "z": -4840
+	}
+	},
+		{
+	"name": "[4] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -400,
+	  "y": 40,
+	  "z": -5100
+	}
+	},
+		{
+	"name": "[4] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -510,
+	  "y": 42,
+	  "z": -5160
+	}
+	},
+		{
+	"name": "[4] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -230,
+	  "y": 33,
+	  "z": -5130
+	}
+	},
+		{
+	"name": "[11] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -250,
+	  "y": 30,
+	  "z": -5270
+	}
+	},
+		{
+	"name": "[10] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -185,
+	  "y": 31,
+	  "z": -5460
+	}
+	},
+			{
+	"name": "[3] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -100,
+	  "y": 34,
+	  "z": -5450
+	}
+	},		{
+	"name": "[13] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -2452,
+	  "y": 8,
+	  "z": -6934
+	}
+	},
+			{
+	"name": "[17] Millet [Lv.60]",
+	"color": "#9ae41b",
+	"icon": "farming",
+	"visibility": "always",
+	"location": {
+	  "x": -734,
+	  "y": 44,
+	  "z": -5030
+	}
+	},
+	
 //Decay Roots
     {
 	  "name": "[6] Decay Roots [Lv.70]",
