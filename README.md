@@ -29,16 +29,13 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
     - [ ] Barley
     - [ ] Trout
 - [ ] Lv. 20-30
-    - [x] Gold
+    - [x] Gold (R)
     - [ ] Oats
     - [ ] Salmon
 - [x] Lv. 30-40 (Sandstone, Malt, and Carp)
-- [ ] Lv. 40-50
-    - [x] Iron
-    - [x] Hops
-    - [x] Icefish
+- [ ] Lv. 40-50 (Iron (R), Hops, Icefish)
 - [ ] Lv. 50-60
-    - [x] Silver
+    - [x] Silver (R)
     - [x] Rye (R)
     - [ ] Piranha
 - [ ] Lv. 60-70
