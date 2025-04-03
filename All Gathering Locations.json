@@ -123,7 +123,7 @@
 		"location": {
 		  "x": 300,
 		  "y": 34,
-		  "z": 
+		  "z": -2190
 		}
 	  },
 	  {
@@ -132,9 +132,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": 515,
+	    "y": 48,
+	    "z": -1995
 	  }
 	},
 	{
@@ -143,9 +143,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": 600,
+	    "y": 54,
+	    "z": -1420
 	  }
 	},
 	{
@@ -153,10 +153,10 @@
 	  "color": "#ff4500",
 	  "icon": "fishing",
 	  "visibility": "always",
-	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	  "locati630on": {
+	    "x": 630,
+	    "y": 63,
+	    "z": -1315
 	  }
 	},
 	{
@@ -165,9 +165,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": 470,
+	    "y": 65,
+	    "z": -1175
 	  }
 	},
 	{
@@ -176,9 +176,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": 875,
+	    "y": 66,
+	    "z": -1990
 	  }
 	},
 	{
@@ -187,9 +187,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": 155,
+	    "y": 64,
+	    "z": -3230
 	  }
 	},
 	{
@@ -198,9 +198,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": 80,
+	    "y": 34,
+	    "z": -3245
 	  }
 	},
 	{
@@ -209,9 +209,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": 85,
+	    "y": 24,
+	    "z": -3461
 	  }
 	},
 	{
@@ -220,9 +220,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": -1970,
+	    "y": 57,
+	    "z": -5545
 	  }
 	},
 	{
@@ -231,9 +231,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": -1980,
+	    "y": 55,
+	    "z": -5545
 	  }
 	},
 	{
@@ -242,9 +242,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": -1870,
+	    "y": 56,
+	    "z": -5305
 	  }
 	},
 	{
@@ -253,9 +253,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": -1755,
+	    "y": 54,
+	    "z": -5360
 	  }
 	},
 	{
@@ -264,9 +264,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": -1775,
+	    "y": 55,
+	    "z": -5203
 	  }
 	},
 	{
@@ -275,9 +275,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": -1590,
+	    "y": 53,
+	    "z": -5220
 	  }
 	},
 	{
@@ -286,9 +286,9 @@
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
-	    "x": ,
-	    "y": ,
-	    "z": 
+	    "x": -1110,
+	    "y": 43,
+	    "z": -4450
 	  }
 	},
 
