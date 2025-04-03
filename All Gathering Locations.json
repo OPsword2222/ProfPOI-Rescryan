@@ -2073,6 +2073,239 @@ Messed up trout nodes in the middle of fantastic voyage
 	  }
 	},
 
+//Koi
+	{
+	  "name": "[22] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -610,
+	    "y": 21,
+	    "z": -505
+	  }
+    },
+	{
+	  "name": "[17] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -825,
+	    "y": 26,
+	    "z": -400
+	  }
+    },
+	{
+	  "name": "[5] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -800,
+	    "y": 11,
+	    "z": -400
+	  }
+    },
+	{
+	  "name": "[10] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1300,
+	    "y": 52,
+	    "z": -5180
+	  }
+    },
+	{
+	  "name": "[2] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -765,
+	    "y": 44,
+	    "z": -280
+	  }
+    },
+	{
+	  "name": "[2] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -820,
+	    "y": 18,
+	    "z": -345
+	  }
+    },
+	{
+	  "name": "[5] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -770,
+	    "y": 18,
+	    "z": -345
+	  }
+    },
+	{
+	  "name": "[9] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -905,
+	    "y": 18,
+	    "z": -450
+	  }
+    },
+	{
+	  "name": "[9] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -905,
+	    "y": 18,
+	    "z": -580
+	  }
+    },
+	{
+	  "name": "[2] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -940,
+	    "y": 18,
+	    "z": -580
+	  }
+    },
+	{
+	  "name": "[4] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -925,
+	    "y": 23,
+	    "z": -650
+	  }
+    },
+	{
+	  "name": "[4] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1060,
+	    "y": 42,
+	    "z": -5015
+	  }
+    },
+	{
+	  "name": "[8] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -955,
+	    "y": 46,
+	    "z": -4460
+	  }
+    },
+	{
+	  "name": "[6] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -865,
+	    "y": 41,
+	    "z": -4460
+	  }
+    },
+	{
+	  "name": "[2] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -850,
+	    "y": 42,
+	    "z": -4610
+	  }
+    },
+	{
+	  "name": "[5] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 660,
+	    "y": 81,
+	    "z": -5521
+	  }
+    },
+	{
+	  "name": "[8] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 520,
+	    "y": 102,
+	    "z": -5555
+	  }
+    },
+	{
+	  "name": "[8] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 870,
+	    "y": 44,
+	    "z": -5335
+	  }
+    },
+	{
+	  "name": "[11] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -930,
+	    "y": 28,
+	    "z": -6145
+	  }
+    },
+	{
+	  "name": "[2] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -900,
+	    "y": 45,
+	    "z": -6130
+	  }
+    },
+	{
+	  "name": "[3] Koi [Lv.60]",
+	  "color": "#f6b5a2",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -910,
+	    "y": 46,
+	    "z": -6175
+	  }
+    },
+
 //Gylia
     {
 	  "name": "[6] Gylia Fish [Lv.70]",
