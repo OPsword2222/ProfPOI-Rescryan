@@ -5063,7 +5063,151 @@ Messed up trout nodes in the middle of fantastic voyage
 
     },
 
-//Sky
+//Molten Eel
+	{
+	  "name": "[11] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1455,
+	    "y": 28,
+	    "z": -5550
+	  }
+	},
+	{
+	  "name": "[11] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1415,
+	    "y": 146,
+	    "z": -5570
+	  }
+	},
+	{
+	  "name": "[12] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1250,
+	    "y": 151,
+	    "z": -5255
+	  }
+	},
+	{
+	  "name": "[16] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1425,
+	    "y": 138,
+	    "z": -5085
+	  }
+	},
+	{
+	  "name": "[7] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1495,
+	    "y": 139,
+	    "z": -5060
+	  }
+	},
+	{
+	  "name": "[2] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1385,
+	    "y": 144,
+	    "z": -5395
+	  }
+	},
+	{
+	  "name": "[4] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1435,
+	    "y": 141,
+	    "z": -5490
+	  }
+	},
+	{
+	  "name": "[1] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1425,
+	    "y": 139,
+	    "z": -5545
+	  }
+	},
+	{
+	  "name": "[8] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1500,
+	    "y": 142,
+	    "z": -5525
+	  }
+	},
+	{
+	  "name": "[9] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1235,
+	    "y": 69,
+	    "z": -4985
+	  }
+	},
+	{
+	  "name": "[11] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1350,
+	    "y": 6,
+	    "z": -5390
+	  }
+	},
+	{
+	  "name": "[13] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1355,
+	    "y": 10,
+	    "z": -5580
+	  }
+	},
+	{
+	  "name": "[27] Molten Eel [Lv.90]",
+	  "color": "#e9163f",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1540,
+	    "y": 62,
+	    "z": -5340
+	  }
+	},
+//Starfish
     {
 	  "name": "[7] Starfish [Lv.100]",
 	  "color": "#ffff55",
