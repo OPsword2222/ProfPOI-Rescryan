@@ -34,11 +34,8 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
     - [ ] Salmon
 - [x] Lv. 30-40 (Sandstone, Malt, and Carp)
 - [x] Lv. 40-50 (Iron (R), Hops, Icefish)
-- [x] Lv. 50-60 (Silver (R), Rye (R), Piranha (R))
-- [ ] Lv. 60-70
-    - [x] Cobalt (R)
-    - [x] Millet (R)
-    - [ ] Koi
+- [x] Lv. 50-60 (Silver, Rye, Piranha) (all R)
+- [x] Lv. 60-70 (Cobalt, Millet, Koi) (all R)
 - [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish) 
 - [x] Lv. 80-90 (Diamond, Rice, and Bass)
 - [x] Lv. 90-100 (Molten, Sorghum, Molten Eel (R))
