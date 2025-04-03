@@ -33,10 +33,7 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
     - [ ] Oats
     - [ ] Salmon
 - [x] Lv. 30-40 (Sandstone, Malt, and Carp)
-- [ ] Lv. 40-50
-    - [x] Iron
-    - [x] Hops
-    - [x] Icefish
+- [x] Lv. 40-50 (Iron (R), Hops, Icefish)
 - [ ] Lv. 50-60
     - [x] Silver (R)
     - [x] Rye (R)
@@ -47,10 +44,7 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
     - [ ] Koi
 - [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish) 
 - [x] Lv. 80-90 (Diamond, Rice, and Bass)
-- [ ] Lv. 90-100
-    - [x] Molten
-    - [x] Sorghum
-    - [ ] Molten Eel
+- [x] Lv. 90-100 (Molten, Sorghum, Molten Eel (R))
 - [x] Lv. 100-110 (Voidstone, Hemp, and Starfish)
 - [x] Lv. 110+ (Dernic, Dernic Seed, Dernic Fish)
 
