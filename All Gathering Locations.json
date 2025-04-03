@@ -1917,6 +1917,162 @@ Messed up trout nodes in the middle of fantastic voyage
 
     },
 
+//Piranha
+	{
+	  "name": "[6] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -645,
+	    "y": 61,
+	    "z": 650
+	  }
+	},
+	{
+	  "name": "[7] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -650,
+	    "y": 54,
+	    "z": -640
+	  }
+	},
+	{
+	  "name": "[8] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -770,
+	    "y": 73,
+	    "z": -745
+	  }
+	},
+	{
+	  "name": "[5] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -750,
+	    "y": 54,
+	    "z": -730
+	  }
+	},
+	{
+	  "name": "[25] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -635,
+	    "y": 58,
+	    "z": -920
+	  }
+	},
+	{
+	  "name": "[6] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -665,
+	    "y": 58,
+	    "z": -875
+	  }
+	},
+	{
+	  "name": "[1] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -800,
+	    "y": 51,
+	    "z": -280
+	  }
+	},
+	{
+	  "name": "[2] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -535,
+	    "y": 34,
+	    "z": -2965
+	  }
+	},
+	{
+	  "name": "[3] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -515,
+	    "y": 34,
+	    "z": -2890
+	  }
+	},
+	{
+	  "name": "[2] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -490,
+	    "y": 34,
+	    "z": -2910
+	  }
+	},
+	{
+	  "name": "[2] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -475,
+	    "y": 34,
+	    "z": -2945
+	  }
+	},
+	{
+	  "name": "[4] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -640,
+	    "y": 36,
+	    "z": -3110
+	  }
+	},
+	{
+	  "name": "[3] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -725,
+	    "y": 34,
+	    "z": -3110
+	  }
+	},
+	{
+	  "name": "[8] Piranha [Lv.50]",
+	  "color": "#49b2b6",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -2135,
+	    "y": 53,
+	    "z": -5510
+	  }
+	},
+
 //Gylia
     {
 	  "name": "[6] Gylia Fish [Lv.70]",
