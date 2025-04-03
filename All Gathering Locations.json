@@ -10413,6 +10413,206 @@ Messed up trout nodes in the middle of fantastic voyage
 	    "z": -2805
 	  }
     },
+
+//Cobalt
+	{
+	  "name": "[9] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -880,
+		"y": 24,
+		"z": -670
+	  }
+	},
+	{
+	  "name": "[8] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1276,
+		"y": 25,
+		"z": -5537
+	  }
+	},
+	{
+	  "name": "[13] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 180,
+		"y": 66,
+		"z": -3977
+	  }
+	},
+	{
+	  "name": "[14] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 240,
+		"y": 55,
+		"z": -4030
+	  }
+	},
+	{
+	  "name": "[8] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -830,
+		"y": 35,
+		"z": -435
+	  }
+	},
+	{
+	  "name": "[1] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -739,
+		"y": 42,
+		"z": -295
+	  }
+	},
+	{
+	  "name": "[17] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -625,
+		"y": 25,
+		"z": -385
+	  }
+	},
+	{
+	  "name": "[11] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1445,
+		"y": 48,
+		"z": -5375
+	  }
+	},
+	{
+	  "name": "[13] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1375,
+		"y": 42,
+		"z": 5405
+	  }
+	},
+	{
+	  "name": "[10] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1280,
+		"y": 42,
+		"z": -4430
+	  }
+	},
+	{
+	  "name": "[11] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1170,
+		"y": 43,
+		"z": -4845
+	  }
+	},
+	{
+	  "name": "[8] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -880,
+		"y": 45,
+		"z": -4965
+	  }
+	},
+	{
+	  "name": "[10] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -780,
+		"y": 43,
+		"z": -4570
+	  }
+	},
+	{
+	  "name": "[4] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -695,
+		"y": 14,
+		"z": -4765
+	  }
+	},
+	{
+	  "name": "[9] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -315,
+		"y": 29,
+		"z": -5235
+	  }
+	},
+	{
+	  "name": "[10] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -250,
+		"y": 33,
+		"z": -5020
+	  }
+	},
+	{
+	  "name": "[13] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -150,
+		"y": 33,
+		"z": -5120
+	  }
+	},
+	{
+	  "name": "[10] Cobalt [Lv.60]",
+	  "color": "#798286",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -10,
+		"y": 33,
+		"z": -5325
+	  }
+	},
 //Kanderstone
     {
 	  "name": "[9] Kanderstone [Lv.70]",
