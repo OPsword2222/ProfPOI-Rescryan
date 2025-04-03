@@ -1,23 +1,296 @@
 [
 //Fishing
 
-/*
-Messed up trout nodes in the middle of fantastic voyage
-	    2629, 37, -4138
-	    2625, 37, -4129
-	    2621, 37, -4138
-	    2626, 37, -4150
-	    2628, 37, -4113
-	    2624, 37, -4119
-	    2621, 37, -4123
-	    2648, 37, -4112
-	    2652, 37, -4124
-	    2658, 37, -4128
-	    2652, 37, -4133
-	    2652, 37, -4144
-	    2647, 37, -4143
-	    2658, 37, -4140
-*/
+//Gudgeon
+	{
+	  "name": "[] Gudgeon [Lv.1]",
+	  "color": "",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+//Trout
+	{
+	  "name": "[] Trout [Lv.10]",
+	  "color": "",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+
+//Salmon
+	{
+	  "name": "[8] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 230,
+	    "y": 34,
+	    "z": -2105
+	  }
+	},
+	{
+	  "name": "[13] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 375,
+	    "y": 34,
+	    "z": -2120
+	  }
+	},
+	{
+	  "name": "[3] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -240,
+	    "y": 38,
+	    "z": -2220
+	  }
+	},
+	{
+	  "name": "[10] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -65,
+	    "y": 43,
+	    "z": -2185
+	  }
+	},
+	{
+	  "name": "[7] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -70,
+	    "y": 71,
+	    "z": -1910
+	  }
+	},
+	{
+	  "name": "[8] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 50,
+	    "y": 49,
+	    "z": -1945
+	  }
+	},
+	{
+	  "name": "[14] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 110,
+	    "y": 46,
+	    "z": -1965
+	  }
+	},
+	{
+	  "name": "[3] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 130,
+	    "y": 42,
+	    "z": -2055
+	  }
+	},
+	{
+		"name": "[7] Salmon [Lv.20]",
+		"color": "#ff4500",
+		"icon": "fishing",
+		"visibility": "always",
+		"location": {
+		  "x": 300,
+		  "y": 34,
+		  "z": 
+		}
+	  },
+	  {
+	  "name": "[5] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[6] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[1] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[7] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[4] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[6] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[7] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[4] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[7] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[1] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[3] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[9] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[4] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[11] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
+	{
+	  "name": "[4] Salmon [Lv.20]",
+	  "color": "#ff4500",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
 
 //Carp
     {
@@ -6610,6 +6883,44 @@ Messed up trout nodes in the middle of fantastic voyage
     },
 
 //Farming
+
+//Wheat
+	{
+	  "name": "[] Wheat [Lv.1]",
+	  "color": "",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+//Barley
+	{
+	  "name": "[] Barley [Lv.10]",
+	  "color": "",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+
+//Oats
+	{
+	  "name": "[] Oats [Lv.20]",
+	  "color": "",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+	},
 
 //Malt
     {
