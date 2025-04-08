@@ -27,7 +27,7 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
 - [ ] Lv. 10-20
     - [x] Granite (R)
     - [ ] Barley
-    - [ ] Trout
+    - [x] Trout (R)
 - [ ] Lv. 20-30
     - [x] Gold (R)
     - [ ] Oats
