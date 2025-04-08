@@ -15,8 +15,195 @@
     },
 //Trout
 	{
-	  "name": "[] Trout [Lv.10]",
-	  "color": "",
+	  "name": "[4] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 45,
+	    "y": 59,
+	    "z": -1555
+	  }
+    },
+	{
+	  "name": "[1] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 50,
+	    "y": 58,
+	    "z": -1585
+	  }
+    },
+	{
+	  "name": "[5] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[6] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[3] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[5] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[2] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[12] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[15] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[4] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[2] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[7] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[3] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[4] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[6] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[7] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[6] Trout [Lv.10]",
+	  "color": "#779867",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": ,
+	    "y": ,
+	    "z": 
+	  }
+    },
+	{
+	  "name": "[4] Trout [Lv.10]",
+	  "color": "#779867",
 	  "icon": "fishing",
 	  "visibility": "always",
 	  "location": {
@@ -12058,16 +12245,16 @@
 	  */
 
     },
-    {
-	  "name": "[] Diamond [Lv.80]",
-	  "color": "#55ffff",
-	  "icon": "mining",
-	  "visibility": "always",
+    {//THERES NO NODE NUMBER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	  "name": "[] Diamond [Lv.80]"
+	  "color": "#55ffff"
+	  "icon": "mining"
+	  "visibility": "always"
 	  "location": {
-	    "x": 327,
-	    "y": 27,
+	    "x": 327
+	    "y": 27
 	    "z": -5318
-	  }
+	}
 
 	  /*
 	  Nodes:
