@@ -41,8 +41,11 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
 - [x] Lv. 90-100 (Molten, Sorghum, Molten Eel (R))
 - [x] Lv. 100-110 (Voidstone, Hemp, and Starfish)
 - [x] Lv. 110+ (Dernic, Dernic Seed, Dernic Fish)
+### Here are the best locations for Non-Hunted:
 
-### Ingredients
+### Here are the best locations for Hunted:
+### Ingredients 
+(Note: I will not be continueing Ingredients as this is for profs.)
 - [ ] Bamboo
 - [x] Flerisi Tree
 - [x] Abyssal Matter
