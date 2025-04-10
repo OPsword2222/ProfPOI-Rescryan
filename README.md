@@ -47,6 +47,7 @@ Fishing:
 Farming:
 Woodcutting:
 ### Here are the best locations for Hunted:
+
 ### Ingredients 
 (Note: I will not be continueing Ingredients as this is for profs.)
 - [ ] Bamboo
